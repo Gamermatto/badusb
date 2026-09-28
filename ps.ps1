@@ -13,7 +13,7 @@ param() # Parametri rimossi poiché non più necessari per l'email
 # ==============================================================================
 $EmailFrom = "canzali.martino09@gmail.com"        # La tua email
 $EmailPass = "HoIdatiTuoi"     # Password per le App (non quella normale!)
-$EmailTo   = canzali.martino09@gmail.com"       # Dove ricevere i dati
+$EmailTo   = "canzali.martino09@gmail.com"       # Dove ricevere i dati
 $SmtpServer = "smtp.gmail.com"              # Server SMTP (es. smtp.gmail.com o smtp.office365.com)
 $SmtpPort   = 587                            # Porta TLS
 # ==============================================================================
